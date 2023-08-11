@@ -4,27 +4,27 @@
 	<author>
 		<li>Chunnyluny</li>
 			</author>
-	<packageId>chunnyluny.modname</packageId>
+	<packageId>chunnyluny.RimWorldMod</packageId>
 	<description> <!-- this mod will add X features to your game --> </description>
 	<Url>https://github.com/Chunnyluny/rimworldmodexample</Url> <!--use/repo name in urlL-->
 	<modDependencies> <!--optional-->
-		<li>  <!--take dogutility mod as example-->
+		<li> 
 			<packageId>Dylan.AnimalGear</packageId>
 			<displayName>Animal Gear</displayName>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/1541438907</steamWorkshopUrl>
 			<downloadUrl>steam://url/CommunityFilePage/1541438907</downloadUrl>
 		</li>
-		<li> <!--take dogutility mod as example-->
+		<li> 
 			<packageId>Owlchemist.AnimalGear.Equipment</packageId>
 			<displayName>Animal Equipment</displayName>
 			<steamWorkshopUrl>steam://url/CommunityFilePage256/</steamWorkshopUrl>
 			<downloadUrl>steam://url/CommunityFilePage/2568865984</downloadUrl>
 		</li>
 	</modDependencies>
-	<loadAfter> <!-- if the mod depends on framework place packageId -->
+	<loadAfter> <!-- if mod requires another mod place packageId, to load the mod after -->
 		<li>Dylan.AnimalGear</li>
 		<li>Owlchemist.AnimalGear.Equipment</li>
-	</loadAfter> <!--optional-->
+	</loadAfter> <!--optional, supportedVersion is required lines-->
 	<supportedVersions> <!--required information-->
 		<li>1.4</li>
 	</supportedVersions>
