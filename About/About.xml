@@ -5,7 +5,7 @@
 		<li>Chunnyluny</li>
 			</author>
 	<packageId>chunnyluny.RimWorldMod</packageId>
-	<description> <!-- this mod will add X features to your game --> </description>
+	<description>This mod will add X features to your game.</description> <!-- makesure no space is between the opening tag and/or closing tag in the description -->
 	<Url>https://github.com/Chunnyluny/rimworldmodexample</Url> <!--use/repo name in urlL-->
 	<modDependencies> <!--optional-->
 		<li> 
