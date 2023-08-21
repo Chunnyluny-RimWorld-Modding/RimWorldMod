@@ -1,15 +1,16 @@
-# RimWorldMod, a RimWorld mod
+# RimWorldMod, a RimWorld mod template
 
+<p align="left">
 <a href="https://rimworldgame.com">
   <img alt="Built for RimWorld" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogApparel%2Fmaster%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge&color=magenta" />
 </a>
 &emsp;
-<a href="https://github.com/Chunnyluny/DogApparel/blob/Master/LICENSE">
+<a href="https://github.com/Chunnyluny/RimWorldMod/blob/Master/LICENSE">
   <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/DogApparel?style=for-the-badge&logo=Github&color=magenta" />
 </a>
 &emsp;
-<a href="https://github.com/Chunnyluny/DogApparel/issues">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/chunnyluny/DogApparel?style=for-the-badge&logo=github&color=magenta">
+<a href="https://github.com/Chunnyluny/RimWorldMod/issues">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/chunnyluny/RimWorldMod?style=for-the-badge&logo=github&color=magenta">
 </a>
 &emsp;
 <a href="https://discord.gg/Njbw9RTQkA">
@@ -19,6 +20,7 @@
 <a href="https://ko-fi.com/T6T1NNFAL">
   <img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-magenta?logo=ko-fi&style=for-the-badge" />
 </a>
+</p>
 
 ---
 
@@ -27,7 +29,7 @@
 
 *Hey there, fellow RimWorld enthusiasts! I'm the creator behind the X mod!*
 
-*RimWorldMOdbrings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information.*
+*RimWorldMod brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information.*
 
 
 ---
