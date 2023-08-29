@@ -6,26 +6,20 @@
 			</author>
 	<packageId>chunnyluny.RimWorldMod</packageId>
 	<description>This mod will add X features to your game.</description> <!-- makesure no space is between the opening tag and/or closing tag in the description -->
-	<Url>https://github.com/Chunnyluny/rimworldmodexample</Url> <!--use/repo name in urlL-->
+	<Url>https://github.com/Chunnyluny/rimworldmodexample</Url> <!--fill in repo url-->
 	<modDependencies> <!--optional-->
 		<li> 
 			<packageId>Dylan.AnimalGear</packageId>
-			<displayName>Animal Gear</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/1541438907</steamWorkshopUrl>
-			<downloadUrl>steam://url/CommunityFilePage/1541438907</downloadUrl>
-		</li>
-		<li> 
-			<packageId>Owlchemist.AnimalGear.Equipment</packageId>
-			<displayName>Animal Equipment</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage256/</steamWorkshopUrl>
-			<downloadUrl>steam://url/CommunityFilePage/2568865984</downloadUrl>
+			<displayName>Animal Gear</displayName>	<steamWorkshopUrl>steam://url/CommunityFilePage/1541438907
+</steamWorkshopUrl>	<downloadUrl>steam://url/CommunityFilePage/1541438907
+</downloadUrl>
 		</li>
 	</modDependencies>
-	<loadAfter> <!-- if mod requires another mod place packageId, to load the mod after -->
+	<loadAfter> <!-- if mod requires another mod, place packageId, to load the mod after -->
 		<li>Dylan.AnimalGear</li>
-		<li>Owlchemist.AnimalGear.Equipment</li>
-	</loadAfter> <!--optional, supportedVersion is required lines-->
-	<supportedVersions> <!--required information-->
+	</loadAfter> <!-- optional -->
+<!-- supportedVersion is required info -->
+	<supportedVersions> <!-- version mismatch -->
 		<li>1.4</li>
 	</supportedVersions>
-</ModMetaData>  <!--required information-->
+</ModMetaData>  <!-- don't forget to close the ModMetaData -->
