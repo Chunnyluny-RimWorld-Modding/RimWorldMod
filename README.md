@@ -1,24 +1,24 @@
 # RimWorldMod, a RimWorld mod template
 
-<a href="https://rimworldgame.com">
-  <img alt="Built for RimWorld" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogApparel%2Fmaster%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge&color=magenta" />
-</a>
-&emsp;
-<a href="https://github.com/Chunnyluny/RimWorldMod/blob/master/LICENSE">
-  <img alt="GitHub" src="https://img.shields.io/github/license/Chunnyluny/DogApparel?style=for-the-badge&logo=Github&color=magenta" />
-</a>
-&emsp;
-<a href="https://github.com/Chunnyluny/RimWorldMod/issues">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/chunnyluny/RimWorldMod?style=for-the-badge&logo=github&color=magenta" />
-</a>
-&emsp;
-<a href="https://discord.gg/Njbw9RTQkA">
-  <img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
-</a>
-&emsp;
-<a href="https://ko-fi.com/T6T1NNFAL">
-  <img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-magenta?logo=ko-fi&style=for-the-badge" />
-</a>
+ <a href="https://rimworldgame.com">
+   <img alt="Built for RimWorld" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogApparel%2Fmaster%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge&color=magenta" />
+ </a>
+ &emsp;
+ <a href="https://github.com/Chunnyluny/RimWorldMod/blob/master/LICENSE">
+   <img alt="MIT licence" src="https://img.shields.io/github/license/Chunnyluny/RimWorldMod?style=for-the-badge&logo=github&color=magenta" />
+ </a>
+ &emsp;
+ <a href="https://github.com/Chunnyluny/RimWorldMod/issues">
+   <img alt="GitHub issues" src="https://img.shields.io/github/issues/chunnyluny/RimWorldMod?style=for-the-badge&logo=github&color=magenta" />
+ </a>
+ &emsp;
+ <a href="https://discord.gg/NjbW9RTQkA">
+   <img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
+ </a>
+ &emsp;
+ <a href="https://ko-fi.com/I2I8ND4C0">
+   <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko--fi-magenta?logo=ko-fi&style=for-the-badge" />
+ </a>
 
 ---
 
@@ -53,11 +53,20 @@ If you use Combat Extended in your modlist and have more info about regarding th
 
 ### Can I use this mod with any other mod(s)?
 
-You can try out for yourself, I have included textures, if you are using Vanilla Animals Expanded. I have checked before if there is any mod existing on the workshop that would would add the same items/features as my mod. I have not found anything similar, so I assume it is quite rare to get any mod conflict. ```Place the 'Animal Gear' mod before this mod in the load order for proper functionality.``` If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/DogApparel/issues/new)
+I added textures for X mod. I have checked before if there is any mod existing on the workshop that would would add the same items/features as my mod. But I have not found anything similar, so I believe it's quite rare to get any mod conflict. ```Place X mod before this mod in the load order for proper functionality.``` You can provide me with incompatibility reports, by opening [an issue](https://github.com/Chunnyluny/RimWorldMod/issues/new).
 
 ### Steam or GitHub and when available for release?
 
-This mod is still in development and will be released on Github when it is almost content ready. Since this mod is a collab. it will be expanded upon. Because this is my first ever RimWorld mod, I appreciate any feedback or bugreports, you can place them in the [Issues tab](https://github.com/Chunnyluny/DogApparel/issues/new). I will prefer updating this mod on GitHub, since it is easier to implement new features and bugfixes through GitHub. When any Alpha version is ready to test out, feel free to star this repository to keep up-to-date and provide me with any feedback on functionality of this mod.
+This mod is still in development and will be released on Github whenever I find it feature finished. Since this mod is a collab it will be expanded upon. Because this is my first ever RimWorld mod, I appreciate any feedback or bugreports, so I can try to improve this mod.
+I will prefer updating this mod on GitHub, since it is easier to implement new features and bugfixes through GitHub. When any Alpha version is ready to test out, feel free to star this repository to keep up-to-date and provide me with any feedback on functionality of this mod.
+
+### Other questions, feedback or bugreports
+
+- If you have any ❓🤔 questions that are not listed in the FAQ, you can start a [new discussion](https://github.com/Chunnyluny/RimWorldMod/discussions)
+- If you have a small question, please give them the "question" 🏷️label and submit [a new issue](https://github.com/Chunnyluny/RimWorldMod/issues/new)
+- If you have any 🪲 bugreports, please give them "bug/error" 🏷️label and provide a [hugsliblog](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
+- If you are interested in my discord community, you can join my Discordserver;
+- Stay Chuned, ⭐ this Repo to keep up-to-date on any feature updates or any other progress!!
 
 ## Acknowledgement
 
